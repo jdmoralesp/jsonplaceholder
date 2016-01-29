@@ -600,7 +600,23 @@
       "title": "at nam consequatur ea labore ea harum",
       "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
     }
+
+    {
+      "userId": 2,
+      "id": 101,
+      "title": "post de prueba 1",
+      "body": "esto es un post de prueba"
+    }
+    {
+      "userId": 2,
+      "id": 102,
+      "title": "post de prueba 2",
+      "body": "esto es otro post de prueba"
+    }
+
+
   ],
+
   "comments": [
     {
       "postId": 1,
